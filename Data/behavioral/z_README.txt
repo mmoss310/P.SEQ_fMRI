@@ -1,0 +1,12 @@
+<OLD ID SCHEME>
+100~: S1_PRACTICE
+200~: S2_MRI
+ex) SUB 101 becomes 201
+
+
+<FIXED ID SCHEME>
+"Tue Nov 16 10:57:14 2021"
+SUB 301-303 used the same ID across sessions
+-SUB101 - 201 -> SUB 201 - 201
+-SUB102 - 202 -> SUB 202 - 202
+-SUB103 - 203 -> SUB 203 - 203
